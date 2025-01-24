@@ -1,5 +1,3 @@
-PyMath
-
 ## Instructions
 
 ### Prérequis
